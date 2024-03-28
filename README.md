@@ -1,4 +1,4 @@
-# Perl Package Manager CLI Tool
+# Package Manager CLI Tool
 This command-line interface (CLI) tool, written in Perl, provides a simple interface for managing packages on your system.
 
 ## Features
