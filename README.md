@@ -11,7 +11,4 @@ This command-line interface (CLI) tool, written in Perl, provides a simple inter
 ### Prerequisites
 Ensure you have Perl installed on your system. This tool also requires `pacman` and optionally `trizen` for a complete functionality experience, making it suitable for Arch Linux users.
 
-You might need to run:
-`chmod +x pacmgr.pl`
-then:
-`./pacmgr.pl`
+You might need to run `chmod +x pacmgr.pl` then: `./pacmgr.pl` to execute the script.
